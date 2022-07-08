@@ -1,0 +1,5 @@
+-r ./sort/requirements.txt
+torch
+torchvision
+numpy
+opencv-python
